@@ -9,6 +9,7 @@
   "author": "Sarit Vakrat",
   "license": "ISC",
   "dependencies": {
+    "git": "^0.1.5",
     "lodash": "^4.17.10",
     "nodemon": "^1.17.4",
     "yargs": "^11.0.0"
